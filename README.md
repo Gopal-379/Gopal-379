@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gopalpeddi379@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/GOPAL-RESUME](https://bit.ly/GOPAL-RESUME)
+- 📄 Know about my experiences [https://bit.ly/gopal-peddi](https://bit.ly/gopal-peddi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
