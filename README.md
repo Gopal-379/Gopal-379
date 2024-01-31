@@ -32,9 +32,9 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gopal-379&show_icons=true&theme=dark&title_color=f5f5f5&text_color=dedede&locale=en&layout=compact" alt="gopal" /></p> -->
 
 ### Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Gopal-379&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Gopal-379&count_private=true&include_all_commits=true&rank_icon=github&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal-379&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 <br> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopal-379&theme=dark" alt="gopal" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopal-379&theme=dark" alt="gopal" /></p> -->
