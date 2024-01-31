@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gopal Peddi</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Gopal+Peddi+😎;Welcome+to+my+Github!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gopal-379&label=Profile%20views&color=0e75b6&style=flat" alt="gopal" /> </p>
@@ -27,6 +31,10 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gopal-379&show_icons=true&theme=dark&title_color=f5f5f5&text_color=dedede&locale=en&layout=compact" alt="gopal" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gopal-379&show_icons=true&theme=dark&title_color=ffffff&text_color=e0e0e0&locale=en" alt="gopal" /></p>
+### Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Gopal-379&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopal-379&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<br> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopal-379&theme=dark" alt="gopal" /></p>
